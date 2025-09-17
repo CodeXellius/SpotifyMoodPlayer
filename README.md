@@ -66,7 +66,3 @@ MoodPlayer uses your webcam and AI to detect your mood, then plays a matching Sp
 ## License
 
 MIT License
-
----
-
-Made with ❤️ using DeepFace and Spotify!
