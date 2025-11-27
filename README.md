@@ -24,7 +24,7 @@ MoodPlayer uses your webcam and AI to detect your mood, then plays a matching Sp
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/MoodPlayer.git
+   git clone https://github.com/CodeXellius/MoodPlayer.git
    cd MoodPlayer
    ```
 
